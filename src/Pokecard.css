@@ -1,0 +1,37 @@
+
+.pokecard {
+    width: 125px;
+    height: 155px;
+    background-color: #d3d3d3;
+    /* background-color: yellow; */
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+  
+.poke-name {
+    color: #4634ef;
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    top: 15px;
+  }
+  
+.poke-type {
+    font-size: 11px;
+    color: #404040;
+    position: relative;
+    top: -15px;
+  }
+  
+.poke-exp {
+    font-size: 11px;
+    color: #404040;
+    position: relative;
+    top: -23px;
+  }
+  
+ .poke-pic {
+    width: 80px;
+  }
+  
